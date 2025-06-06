@@ -1,0 +1,6 @@
+spring.application.name=Reports-Service
+
+
+server.port=8989
+
+spring.boot.admin.client.url=http://localhost:1010
